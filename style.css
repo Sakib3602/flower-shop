@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.o{
+    font-size: 50px;
+    color: purple;
+}
+header{
+    height: 100vh;
+    width: 100%;
+    background-color:  rgba(229, 84, 115, 0.10);;
+}
